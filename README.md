@@ -13,3 +13,5 @@ tested in Delphi7 to match JavaScript implementation:
 			return (a>>>0)/4294967296;
 		}
 	}
+
+P.S. also this unit contains the Delphi implementation of JavaScript (Zero Fill) Unsigned Right Shift ">>>", the CORRECT ONE, not the bs one can find in google (stackoverflow etc.) - the function called `gjSar` in the module.
